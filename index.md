@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Grivma: Unidos podemos mudar o mundo
+# Unidos podemos mudar o mundo
 
 
 1. Cadastre-se
