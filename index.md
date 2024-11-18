@@ -3,7 +3,7 @@ title: Grivma
 layout: home
 description: Unidos podemos mudar o mundo
 intro_image: "images/illustrations/grivma-logo.png"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
