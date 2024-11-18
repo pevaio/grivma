@@ -10,7 +10,4 @@ show_call_box: true
 
 # Unidos podemos mudar o mundo
 
-
-1. **Cadastre-se**
-2. **Acesse nosso painel com videoaulas e dicas**
-3. **Pratique**
+**Bem-vindo ao website do Grivma, onde leigos podem adquirir conhecimento sobre os primeiros socorros com rápidas informações sobre o assunto e direito a videoaulas.**
