@@ -10,9 +10,9 @@ intro_image_hide_on_mobile: false
 # Conheça a equipe
 
 Nossa equipe é formada por:
-- Giovana
+- Giovana Franco
 - Raissa Reis
 - Isabella Barnabé
 - Vitória Flores
-- Maria Emília
+- Maria Emília Andrade
 - Arthur Gabriel
