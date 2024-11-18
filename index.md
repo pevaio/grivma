@@ -11,6 +11,6 @@ show_call_box: true
 # Unidos podemos mudar o mundo
 
 
-1. Cadastre-se
-2. Acesse nosso painel com videoaulas e dicas
-3. Pratique
+1. **Cadastre-se**
+2. **Acesse nosso painel com videoaulas e dicas**
+3. **Pratique**
