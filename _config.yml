@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Grivma'
 
 logo:
-  mobile: "images/logo/grivma-logo-no-text.png"
+  mobile: "images/grivma-logo.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/grivma-logo-no-text.png"
+  desktop: "images/logo/grivma-logo.png"
   desktop_height: "64px"
   desktop_width: "64px"
 
