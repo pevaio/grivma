@@ -4,7 +4,10 @@ main:
     weight: 3
   - name: "Contato"
     url: "/contato/"
-    weight: 5
+    weight: 4
+  - name: "Vídeos"
+    url: "/videos/"
+    weight: 2
 
 footer:
   - name: "Home"
@@ -12,4 +15,4 @@ footer:
     weight: 1
   - name: "Contato"
     url: "/contato/"
-    weight: 2
+    weight: 5
