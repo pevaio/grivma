@@ -1,13 +1,7 @@
 main:
-  - name: "Serviços"
-    url: "/servicos/"
-    weight: 2
   - name: "Equipe"
     url: "/equipe/"
     weight: 3
-  - name: "Sobre"
-    url: "/sobre/"
-    weight: 4
   - name: "Contato"
     url: "/contato/"
     weight: 5
