@@ -9,9 +9,10 @@ $black: #000000; // preto
 $white: #004aad; // azul
 $white-offset: #01285D; // azul escuro
 $steel: #000000; // preto
+$orange: #ef7021; // laranja
 
 // Links
-$link-color: #ef7021;
+$link-color: $orange;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
