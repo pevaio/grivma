@@ -33,19 +33,13 @@
   .call-name {
     font-size: 1.1rem;
     font-weight: bold;
-    a {
-      color: $primary;
-    }
   }
   .call-phone {
     margin-bottom: 5px;
-    a {
-      color: $primary;
-    }
   }
   .call-email {
     a {
-      color: $primary;
+      color: $black;
     }
   }
   strong {
@@ -64,4 +58,3 @@
     }
   }
 }
-// eu vou em matar esse site é muito fudido
