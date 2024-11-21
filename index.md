@@ -11,4 +11,5 @@ show_call_box: true
 # Unidos podemos mudar o mundo
 
 **Bem-vindo ao website do Grivma, onde leigos podem adquirir conhecimento sobre os primeiros socorros com rápidas informações sobre o assunto e direito a videoaulas.**
-<img src="emergencia.jpg" width="300" height="75 />
+
+[![EMERGÊNCIA](images/emergencia.png)](https://www.gov.br/anatel/pt-br/regulado/numeracao/codigos-nacionais/servicos-de-utilidade-publica-e-de-emergencia)
