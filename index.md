@@ -12,4 +12,4 @@ show_call_box: true
 
 **Bem-vindo ao website do Grivma, onde leigos podem adquirir conhecimento sobre os primeiros socorros com rápidas informações sobre o assunto e direito a videoaulas.**
 
-![EMERGÊNCIA](images/emergencia.png)
+<img src="emergencia.jpg" width="300" height="75/>
