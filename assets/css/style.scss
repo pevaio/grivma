@@ -6,10 +6,11 @@ $primary: #ec49a6; // rosa
 $primary-dark: #ec49a6; // rosa
 $secondary: #AF337A; // roxo
 $black: #000000; // preto
-$white: #ffffff; // azul
+$white: #ffffff; // branco
 $white-offset: #01285D; // azul escuro
 $steel: #000000; // preto
 $orange: #ef7021; // laranja
+$blue: #004aad // azul
 
 // Links
 $link-color: $primary;
@@ -23,9 +24,9 @@ $font-family-heading: "Playfair Display", serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
-$footer-text-color: $white;
+$footer-text-color: $blue;
 $sub-footer-background-color: darken($primary, 10%);
-$sub-footer-text-color: $white;
+$sub-footer-text-color: $blue;
 
 // Bootstrap 5.3.2
 
