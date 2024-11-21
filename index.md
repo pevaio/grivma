@@ -11,3 +11,5 @@ show_call_box: true
 # Unidos podemos mudar o mundo
 
 **Bem-vindo ao website do Grivma, onde leigos podem adquirir conhecimento sobre os primeiros socorros com rápidas informações sobre o assunto e direito a videoaulas.**
+
+![EMERGÊNCIA](images/emergencia.png)
